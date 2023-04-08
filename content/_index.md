@@ -43,7 +43,7 @@ sections:
         - title: Student
           company: People's friendship university of Russia
           company_url: ''
-          company_logo: org-gc
+          company_logo: Logo_rudn_znak
           location: Moscow
           date_start: '2022-09-01'
           date_end: ''
