@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: RUDN student
+role: Student of Faculty of Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
