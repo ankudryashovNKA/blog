@@ -212,33 +212,46 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: 1132226433@pfur.ru
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: Mikluho-Malkaya Street, 6
+        city: Moscow
+        postcode: '117198'
+        country: Russia
+        country_code: RU
       contact_links:
-        - icon: twitter
+        - icon: fab fa-etsy
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
+          name: eLIBRARY
+          link: 'https://www.elibrary.ru/'
+        - icon: fab fa-google
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: Google Scholar
+          link: 'https://scholar.google.com/'
+        - icon: fab fa-opera
+          icon_pack: fab
+          name: ORCID
+          link: 'https://orcid.org/'
+        - icon: fab fa-mendeley
+          icon_pack: fab
+          name: Mendeley
+          link: 'https://www.mendeley.com/'
+        - icon: fab fa-ravelry
+          icon_pack: fab
+          name: ResearchGate
+          link: 'https://www.researchgate.net/profile/Artyom-Kudryashov-2'
+        - icon: fab fa-autoprefixer
+          icon_pack: fab
+          name: Academia.edu
+          link: 'https://independent.academia.edu/ArtyomKudryashov'
+        - icon: fab fa-artstation
+          icon_pack: fab
+          name: arXiv
+          link: 'https://arxiv.org/'
+        - icon: fab fa-github
+          icon_pack: fab
+          name: Github
+          link: 'https://github.com/ankudryashovNKA'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
