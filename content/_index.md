@@ -100,6 +100,14 @@ sections:
           organization_url: https://google.com
           title: 'Created hugo site'
           url: ''
+        - certificate_url: https://disk.yandex.ru/i/e8Z-j4K7rLIDPA
+          date_end: '2024-05-18'
+          date_start: '2024-02-17'
+          description: 'Passed 100%'
+          organization: Stepik
+          organization_url: https://www.stepik.org
+          title: The basics of cybersecurity
+          url: https://stepik.org/course/111512/info
     design:
       columns: '2'
   - block: collection
